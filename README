@@ -1,4 +1,9 @@
-The Smith Chart Circles Toolbox
+The Smith Chart Circles Toolbox 2
+
+Version: 2.0
+Written by: Curtis Mayberry
+Email: Curtisma3 [at] g_mail [dot] com
+
 Version: 1.0
 Written by: Warren du Plessis
 Email (remove all the underscores): warren_du_plessis [at] g_mail [dot] com
@@ -18,7 +23,14 @@ The files are:
 - smith_circles: Draw circles on a Smith Chart.
 - smith: Draw a Smith chart.
 - stability_circles: Draw stability circles on a Smith Chart.
+- Smith_project_example: An LNA design project example based of a 
+  6GHz discrete amplifier microstrip LNA
+- Smith_Project_Example_page_2: Report for the design project example.
+  The script was used to plot the smith charts on page 2 of the report.
 
 The equations and examples are from the excellent book "Microwave
 Transistor Amplifiers, Analysis and Design," second edition by
 Guillermo Gonzalez (ISBN 0-13-254335-4).
+
+The example project is from a a course project for ECE4415: RF 
+Engineering I at Georgia Institute of Technology (Georgia Tech)
