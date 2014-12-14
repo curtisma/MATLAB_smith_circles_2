@@ -1,0 +1,24 @@
+The Smith Chart Circles Toolbox
+Version: 1.0
+Written by: Warren du Plessis
+Email (remove all the underscores): warren_du_plessis [at] g_mail [dot] com
+
+This is a collection of files that will plot the standard amplifier
+design circles on a Smith chart.  Please email me with any bugs,
+complaints, comments, compliments (hopefully lots of those!) or
+suggestions.
+
+The files are:
+- ga_circles: Draw constant available power gain circles on a Smith Chart.
+- gp_circles: Draw constant operating power gain circles on a Smith Chart.
+- maximum_gain: Calculate the maximum gain for a specified device.
+- noise_circles: Draw constant noise figure circles on a Smith Chart. 
+- readme: This file.
+- rollett_stability: Evaluate the Rollett stability criteria.
+- smith_circles: Draw circles on a Smith Chart.
+- smith: Draw a Smith chart.
+- stability_circles: Draw stability circles on a Smith Chart.
+
+The equations and examples are from the excellent book "Microwave
+Transistor Amplifiers, Analysis and Design," second edition by
+Guillermo Gonzalez (ISBN 0-13-254335-4).
